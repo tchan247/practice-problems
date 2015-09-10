@@ -94,6 +94,6 @@ var rotateMatrix = function(matrix, direction) {
  return newMatrix;
 };
 
-// Time: O(n^2)
-// Space: O(n^2)
+// Time: O(mn)
+// Space: O(mn)
 

@@ -1,0 +1,20 @@
+{
+  "name": "practice-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practiceProblems.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tchan247/practice-problems.git"
+  },
+  "author": "terry chan",
+  "devDependencies": {},
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jasmine": "^0.9.1",
+    "jasmine": "^2.3.2"
+  }
+}
